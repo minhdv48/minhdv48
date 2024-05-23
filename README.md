@@ -1,14 +1,23 @@
 CIRICULUM VITAE
 
 Full name: 		DUONG VAN MINH
+
 Date of birth:		04-08-1985
+
 Place of birth:	Hanoi – Vietnam
+
 Sex:			Male
+
 Nationality:		Vietnamese
+
 Present address:	#CT7K Duong noi, Ha Dong district, Hanoi, Vietnam
+
 Tel.:			(+84)987 689 448
-E-mail:		minhdv48@gmail.com				
+
+E-mail:		minhdv48@gmail.com			
+
 Marital status:	Married
+
 Languages:	English, Vietnamese (mother tongue)
 
 
