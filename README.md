@@ -33,7 +33,7 @@ Project management professional Training, 2021
 TECHNOLOGY Skills:
 C#, .NET, Asp.Net MVC, .Net core, Window From
 MySql, SQL Server, Oracle, Redis, Elasticsearch
-Html / Css / Bootstrap / matterial / Jquery / Ajax / javascript / ... etc
+Html / Css / Bootstrap / matterial / Jquery / Ajax / javascript / React Js
 Exp AWS, AI, Machine Learning 
 
 My Skills:
@@ -41,7 +41,8 @@ My Skills:
   - Logical thinking
   - Business Analysis
   - ASP.Net/.Net Core (MVC/C#/Razor/API/Lamda/Linq)
-  - MSSQL Server, Store proceduce, view, function, optimize system.
+  - MySQL, Posgress, MSSQL, Oracle, (Store proceduce, view, function)
+  -  optimize system.
   - Using jQuery, Bootstrap framework, javascript,...
   - Working with Elasticsearch, MongoDB, Redis,...
   - Suggestion a quick solution at a time
@@ -65,10 +66,16 @@ CTO in a technology company.
 EMPLOYMENT RECORD
 
 Technology manager position
-2022 – now
+
 Key responsibilities:
 Manage Research and Development (R&D) activities.
 Establish strategy and monitor the company's technology infrastructure over the long term.
+Design and develop high-quality software solutions using C# and .NET Framework/.NET Core.
+Lead the architecture and backend development for complex systems.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Ensure the performance, quality, and responsiveness of applications.
+Identify and correct bottlenecks and fix bugs.
+Maintain code quality, organization, and automatization.
 Communication with clients and analysis business logic with team before start.
 
 Phucthanh group Vietnam | Project manager/Teamleader
